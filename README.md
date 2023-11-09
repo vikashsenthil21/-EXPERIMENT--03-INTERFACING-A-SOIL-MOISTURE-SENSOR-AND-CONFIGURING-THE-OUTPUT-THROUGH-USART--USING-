@@ -1,5 +1,8 @@
-# Aim: To Interface a soil moisture sensor , configure  the ADC and transfer the data through serial port usign USART  
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
+## EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART- USING IOT DEVELOPMENT BOARD
+# Aim:
+To Interface a soil moisture sensor , configure  the ADC and transfer the data through serial port usign USART  
+## 
+Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 ## Soil moisture sensor 
@@ -49,9 +52,12 @@ GND pin is a Ground
   
 8.click on cntrl+S , automaticall C program will be generated 
 <img height=30% width=40% src="https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png">
-<img height=30% width=60% src="https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png">
+<img height=50% width=80% src="https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png">
+``
 9. edit the program and as per required 
-<img height=30% width=80% src="https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png">
+``
+![226189461-a573e62f-a109-4631-a250-a20925758fe0](https://github.com/vikashsenthil21/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/119433834/e1606415-750d-4892-88ce-c613dddb367e)
+
 
 10. use project and build all 
 <img height=30% width=40% src="https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png">
