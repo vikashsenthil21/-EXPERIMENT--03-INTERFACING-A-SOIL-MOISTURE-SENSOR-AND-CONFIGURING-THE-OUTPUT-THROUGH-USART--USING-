@@ -1,8 +1,8 @@
 ## EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART- USING IOT DEVELOPMENT BOARD
 # Aim:
 To Interface a soil moisture sensor , configure  the ADC and transfer the data through serial port usign USART  
-## 
-Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
+## Components required:
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 ## Soil moisture sensor 
@@ -212,3 +212,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img height=30% width=40% src="https://github.com/vikashsenthil21/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/119433834/f2abfb4b-3e08-48bc-9702-c85edd434442">
 
 ## Result :
+Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
